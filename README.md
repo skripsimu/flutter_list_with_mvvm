@@ -1,7 +1,10 @@
 # flutter_list_with_mvvm
 
 A new Flutter project.
-
+- Using API from [REQ | RES](https://reqres.in/)
+- bloc: ^3.0.0
+- flutter_bloc: ^3.1.0
+- http: ^0.12.0+4
 ## Getting Started
 
 This project is a starting point for a Flutter application.
